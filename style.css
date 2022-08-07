@@ -1,0 +1,29 @@
+body {
+    background: #67acba;
+    font-family: Sans-Serif;
+    background-image:url(./wait.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.clock {
+       top: 50%;
+    left: 50%;
+    color: rgb(215, 182, 182);
+    font-size: 56px;
+    border: 1px solid #eee;
+    padding: 20px;
+    background: #3c707d;
+    border-radius: 30px;
+    Width: 320px;
+    Height: 50px;
+    -webkit-transform:;
+    -moz-transform:;
+    -ms-transform:;
+    -o-transform:;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    margin: 300px;
+}
